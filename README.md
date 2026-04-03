@@ -1,5 +1,5 @@
 # my-demo
-My first project.
+My first project attempt.
 DOCTYPE html>
 <html lang="en">
 <head>
